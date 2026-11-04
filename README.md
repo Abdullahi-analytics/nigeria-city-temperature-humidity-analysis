@@ -132,7 +132,7 @@ The line chart presents the temperature and humidity observations across the sev
 
 It provides an initial view of how the two measurements vary from one location to another.
 
-![Temperature and Humidity Line Chart](images/temperature-humidity-line-chart.png)
+![Temperature and Humidity Line Chart](Python_Dashboard_line.png)
 
 ### 2. Temperature and Humidity Bar Chart
 
@@ -140,7 +140,7 @@ The bar chart provides an alternative representation of the observations, allowi
 
 The current implementation requires improvement because the bars overlap rather than appearing side by side.
 
-![Temperature and Humidity Bar Chart](images/temperature-humidity-bar-chart.png)
+![Temperature and Humidity Bar Chart](Python_Dashboard_temp.png)
 
 **Visualisation improvement:** Since temperature and humidity have different measurement units, separate charts or clearly labelled axes are recommended for more accurate interpretation. A grouped bar chart would also improve the city-level comparison.
 
