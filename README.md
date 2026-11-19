@@ -2,7 +2,7 @@
 
 A Python data visualisation project exploring and comparing temperature and humidity observations across seven Nigerian cities using Matplotlib.
 
-> **Project status:** Portfolio project — initial analysis and visualisations documented. The dataset has been described as real-world data, but its original source, collection dates, and measurement method have not yet been provided. These details must be added before the dataset can be independently verified.
+> **Project status:** Portfolio project, initial analysis and visualisations documented. The dataset has been described as real-world data, but its original source, collection dates, and measurement method have not yet been provided. These details must be added before the dataset can be independently verified.
 
 ## Project Overview
 
